@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.head{
+    background-image: url(./new-year-new-me/images/banner/banner2.png);
+    width: 1368px;
+    height: 700px;
+    
+}
+.banner{
+    position: relative;
+}
+.items{
+    text-align: end;
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 300px;
+    height: 200px;
+    width: 300px;
+}
+.items p{
+    font-weight: bold;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.items button{
+    padding: 10px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+/* 2 no section */
+.banner2{
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(235, 78, 5, 0.664);
+}
+
+
+.photo{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.photo img{
+    width: 300px;
+}
+
+.text{
+    width: 450px;
+    margin-right: 50px;
+    margin-top: 70px;
+}
+.text p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+/*  3 no section  */
+.plan{
+    background-color: rgba(201, 183, 183, 0.486);
+}
+.myplans{
+    text-align: center;
+    padding: 13px;
+    color: rgb(221, 141, 36);
+}
+.plans{
+    text-align: center;
+    margin: 0px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.plans1{
+    
+    padding: 25px;
+    height: auto;
+    width: 200px;
+}
+.plans1 img{
+    width: 50px;
+}
+.plans1 h3{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.plans1 p{
+
+    
+}
+
+
+/* 4 no section */
+.section-4{
+    padding: 100px 150px;
+}
+.no-4{
+    background-image: url(./new-year-new-me/images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center; 
+    border-radius: 5px;
+    padding: 50px 0px 50px 40px;
+}
+
+.no-4 h1{
+    color: rgb(9, 40, 66);
+}
+
+.no-4 button{
+    margin-top: 20px;
+    width: 90px;
+    height: 40px;
+    font-size: 17px;
+    background-color: rgb(32, 173, 32);
+    border-radius: 3px;
+}
+
+/* 5 no section */
+.section-5{
+    display: flex;
+    justify-content: space-between;
+    padding: 120px 180px;
+    background-color: slategray;
+}
+
+.left{
+    width: 480px;
+    height: 310;
+}
+.left p{
+    font-size: 15px;
+    color: rgb(43, 40, 35);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.left logo{
+    padding: 10px;
+}
+.logo img{
+    margin: 10px 10px 10px 0px;
+}
+
+/* right */
+.right{
+    font-size: 27px;
+}
+
+.right h4{
+    color: aliceblue;
+}
+.right input{
+    width: 200px;
+    height: 20px;
+    margin: 15px 0px 15px 0px;
+}
+.right button{
+    background-color: rgb(83, 76, 70);
+    color: rgb(248, 252, 247);
+    font-weight: bold;
+    width: 120px;
+    height: 39px;
+    font-size: 20px;
+}
